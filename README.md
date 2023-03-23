@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* This is rails 7 feature to make a single page application by converting all request to ajax by turbo-rails
